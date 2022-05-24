@@ -1,0 +1,44 @@
+/*
+ File: index.css
+GUI Assignment: Creating Your First Web Page
+Arth Patel, UMass Lowell Computer Science, Arth_patel@student.uml.edu
+This file has all the data for the webpage design and helps the site look cleaner and better
+Copyright (c) 2022 by Patel. All rights reserved. May be freely copied or
+excerpted for educational purposes with credit to the author.
+updated by AAP on May 24, 2022 at 9:23 AM
+*/
+.intro{
+    background-color:blue;
+    color:aliceblue;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+a{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+
+}
+
+table{
+    width: 400px;
+}
+
+table, th, td{
+    border: 2px solid;
+}
+
+td{ 
+    text-align: center;
+}
